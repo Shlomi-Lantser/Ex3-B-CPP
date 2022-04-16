@@ -17,21 +17,21 @@ Classes on this project :
 * **Matrix.cpp** - Implementation of all the methods operators and functions.
                  
 ## Operators:
-==
-!=
-<
->
-<=
->=
-<<
->>
-*
-*=
--mat
-+
-+=
--
--=
+`==`
+`!=`
+`<`
+`>`
+`<=`
+`>=`
+`<<`
+`>>`
+`*`
+`*=`
+`-mat`
+`+`
+`+=`
+`-`
+`-=`
 
         
                  
